@@ -1,5 +1,5 @@
 # Mapa do Brasil SVG
-Mapa do Brasil em SVG com nome e código do IBGE.
+Adaptação do Mapa do Brasil em SVG do [Felipe Duardo](https://github.com/felipeduardo/mapa-brasil-svg) com nome e código do IBGE.
 
 ### DEMO
 
