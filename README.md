@@ -23,5 +23,5 @@ Mapa do Brasil em SVG com nome e código do IBGE.
 
 ### Créditos
 
-Mapa Original: [https://github.com/felipeduardo/mapa-brasil-svg](https://github.com/felipeduardo/mapa-brasil-svg)
-Códigos IBGE: [http://www.ibge.gov.br/home/geociencias/areaterritorial/principal.shtm](http://www.ibge.gov.br/home/geociencias/areaterritorial/principal.shtm)
+* Mapa Original: [https://github.com/felipeduardo/mapa-brasil-svg](https://github.com/felipeduardo/mapa-brasil-svg)
+* Códigos IBGE: [http://www.ibge.gov.br/home/geociencias/areaterritorial/principal.shtm](http://www.ibge.gov.br/home/geociencias/areaterritorial/principal.shtm)
